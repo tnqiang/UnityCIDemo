@@ -1,0 +1,260 @@
+2016-11-17 11:13:31.056 Unity[11381:146316] NSDocumentController Info.plist warning: The values of CFBundleTypeRole entries must be 'Editor', 'Viewer', 'None', or 'Shell'.
+...276545 bytes written to /Users/renshengqiang/Library/Unity/Certificates/CACerts.pem
+ransport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56381
+
+LICENSE SYSTEM [20161117 11:13:31] Next license update check is after 2026-09-09T00:00:00
+
+DisplayProgressbar: Unity license
+
+ BATCHMODE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-batchmode
+-projectPath
+/Users/renshengqiang/Unity/CIDemo
+-executeMethod
+CommandBuild.Build
+-quit
+-logFile
+build.log
+Successfully changed project path to: /Users/renshengqiang/Unity/CIDemo
+/Users/renshengqiang/Unity/CIDemo
+Loading GUID <-> Path mappings...0.000042 seconds
+Loading Asset Database...0.004367 seconds
+Audio: FMOD Profiler initialized on port 54901
+AssetDatabase consistency checks...0.007048 seconds
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=0
+Renderer: AMD Radeon R9 M370X OpenGL Engine
+Vendor:   ATI Technologies Inc.
+Version:  4.1 ATI-1.46.22
+GLES:     0
+ GL_ARB_blend_func_extended GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader5 GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_occlusion_query2 GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_subroutine GL_ARB_shading_language_include GL_ARB_tessellation_shader GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_cube_map_array GL_ARB_texture_gather GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_texture_storage GL_ARB_texture_swizzle GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_vertex_attrib_64bit GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_EXT_debug_label GL_EXT_debug_marker GL_EXT_depth_bounds_test GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB_decode GL_APPLE_client_storage GL_APPLE_container_object_shareable G
+L_APPLE_flush_render GL_APPLE_object_purgeable GL_APPLE_rgb_422 GL_APPLE_row_bytes GL_APPLE_texture_range GL_ATI_texture_mirror_once GL_NV_texture_barrier
+OPENGL LOG: Creating OpenGL 4.1 graphics device ; Context level  <OpenGL 4.1> ; Context handle 193297408
+Begin MonoManager ReloadAssembly
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/Unity.Locator.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/Unity.IvyParser.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/System.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/System.Xml.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/System.Configuration.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/PackageManager/Unity/PackageManager/5.4.1/Unity.PackageManager.dll (this message is harmless)
+Initializing Unity.PackageManager (PackageManager) v5.4.1 for Unity v5.4.1f1
+Setting StandaloneOSXIntel v5.4.1 for Unity v5.4.1f1 to /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport
+Setting UNetHLAPI v5.4.1 for Unity v5.4.1f1 to /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking
+  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
+  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
+Setting GUISystem v5.4.1 for Unity v5.4.1f1 to /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem
+  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
+  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
+Setting Advertisements v5.4.1 for Unity v5.4.1f1 to /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements
+  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
+  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
+Setting EditorTestsRunner v5.4.1 for Unity v5.4.1f1 to /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/EditorTestsRunner
+  Editor/nunit.framework.dll (Extension) GUID: 7cbab2be89b54486bbd23a6fe637d30e
+  Editor/UnityEditor.EditorTestsRunner.dll (Extension) GUID: 3c0ad459c1534645b5d603b7cc258f97
+Setting TreeEditor v5.4.1 for Unity v5.4.1f1 to /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor
+  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
+Setting UnityAnalytics v5.4.1 for Unity v5.4.1f1 to /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics
+  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
+Setting UnityPurchasing v5.4.1 for Unity v5.4.1f1 to /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityPurchasing
+  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
+Registering custom dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000665 seconds.
+Platform assembly: /Applications/Unity/Unity.app/Contents/PackageManager/Unity/PackageManager/5.4.1/Unity.PackageManager.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/PackageManager/Unity/PackageManager/5.4.1/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll into Unity Child Domain
+Non platform assembly: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll into Unity Child Domain
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Loading /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/nunit.core.interfaces.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 1.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/System.Xml.Linq.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Managed/nunit.core.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  0.514 seconds
+Registering platform support modules:
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Platform assembly: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/2.0/Mono.Security.dll (this message is harmless)
+Registered platform support modules in: 0.087061s.
+Native extension for OSXStandalone target not found
+- starting compile Library/ScriptAssemblies/Assembly-CSharp.dll, for buildtarget 27
+
+-----Compiler Commandline Arguments:
+Filename: /Applications/Unity/Unity.app/Contents/Mono/bin/mono
+Arguments: '/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/smcs.exe'  @Temp/UnityTempFile-8c31c741e96454886be0b386e5dc3338
+MONO_PATH: /Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity
+MONO_CFG_DIR: /Applications/Unity/Unity.app/Contents/Mono/etc
+index: 72
+Responsefile: Temp/UnityTempFile-8c31c741e96454886be0b386e5dc3338 Contents: 
+-debug
+-target:library
+-nowarn:0169
+-out:'Temp/Assembly-CSharp.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll'
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_4_1
+-define:UNITY_5_4
+-define:UNITY_5
+-define:UNITY_64
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_EDITOR_RETINA
+-define:ENABLE_RETINA_GUISTYLES
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_SPRITE_POLYGON
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_DIRECTX12
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION
+-define:ENABLE_EDITOR_TESTS_RUNNER
+-define:UNITY_STANDALONE_OSX
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GAMECENTER
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_OSX
+-define:UNITY_TEAM_LICENSE
+-define:UNITY_PRO_LICENSE
+'Assets/OneScript.cs'
+-r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
+
+-----CompilerOutput:-stdout--exitcode: 1--compilationhadfailure: True--outfile: Temp/Assembly-CSharp.dll
+Compilation failed: 2 error(s), 0 warnings
+-----CompilerOutput:-stderr----------
+Assets/OneScript.cs(9,9): error CS1525: Unexpected symbol `}'
+Assets/OneScript.cs(16,1): error CS8025: Parsing error
+-----EndCompilerOutput---------------
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+Assets/OneScript.cs(9,9): error CS1525: Unexpected symbol `}'
+ 
+(Filename: Assets/OneScript.cs Line: 9)
+
+Assets/OneScript.cs(16,1): error CS8025: Parsing error
+ 
+(Filename: Assets/OneScript.cs Line: 16)
+
+Validating Project structure ... 0.000215 seconds.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000290 seconds (Nothing changed)
+Warming cache for 32 main assets: 0.000117 seconds elapsed
+Initializing Unity extensions:
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll' 
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll' 
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll' 
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll' 
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll' 
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll' 
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll' 
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll' 
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' 
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll' 
+ '/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' 
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 46.8 MB.
+System memory in use after: 46.8 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 1.488359 ms (FindLiveObjects: 0.136697 ms CreateObjectMapping: 0.019910 ms MarkObjects: 1.294005 ms  DeleteObjects: 0.018575 ms)
+
+Scripts have compiler errors.
+ 
+(Filename: /Users/builduser/buildslave/unity/build/Runtime/Utilities/Argv.cpp Line: 171)
+
+
+Aborting batchmode due to failure:
+Scripts have compiler errors.
+
+***Thread 'UnityLookForNewInputDevices' is still running!***
+ 
+(Filename: /Users/builduser/buildslave/unity/build/Runtime/Threads/Thread.cpp Line: 73)
+
+***Thread was not cleaned up!***
+ 
+(Filename: /Users/builduser/buildslave/unity/build/Runtime/Threads/Posix/PlatformThread.cpp Line: 45)
+
